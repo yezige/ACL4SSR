@@ -13,6 +13,19 @@
 #**********************************************************************
 
 # 代理域名规则
+
+#myRule
+.tongli.com.tw remoteproxy
+.gtimg.com remoteproxy
+.cocos2d-x.org remoteproxy
+.ssl-images-amazon.com remoteproxy
+.amazon.co.jp remoteproxy
+.amazon.com remoteproxy
+.trends.google.com remoteproxy
+.name.com remoteproxy
+.apkmirror.com remoteproxy
+.huobi.pro remoteproxy
+
 # MyList
 .bit.no.com remoteproxy
 .btlibrary.me remoteproxy

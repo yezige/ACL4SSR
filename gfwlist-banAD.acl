@@ -1270,6 +1270,20 @@
 #**********************************************************************
 [proxy_list]
 
+# myRule
+(^|\.)tongli\.com\.tw$
+(^|\.)gtimg\.com$
+(^|\.)cocos2d-x\.org$
+(^|\.)ssl-images-amazon\.com$
+(^|\.)amazon\.co\.jp$
+(^|\.)amazon\.com$
+(^|\.)trends\.google\.com$
+(^|\.)name\.com$
+(^|\.)apkmirror\.com$
+(^|\.)huobi\.pro$
+(^|\.)xiami\.net$
+
+
 # MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
